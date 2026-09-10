@@ -67,15 +67,14 @@ streamlit run qvcode_4.py
 4. **View Outputs:** All outputs render automatically as interactive Plotly charts or data tables on the **Right Panel Dashboard Canvas**.
 5. **Save Project:** Click **⎙ Save Project Bundle** in the sidebar to export your session for future use.
 
-
 ## 🧰 Tech Stack
 
 * **Frontend / Framework:** [Streamlit](https://streamlit.io/)
 * **Data Processing:** [Pandas](https://pandas.pydata.org/) & [DuckDB](https://duckdb.org/)
 * **Data Visualization:** [Plotly Express](https://plotly.com/python/plotly-express/)
 
-## 📸 View
-![QVStudio]()
+## 📸 Visual
+![QVStudio](https://github.com/vinayaksharma-git/QueryViewStudio/blob/main/QVStudio.png)
 
 ## 📜 License
 
