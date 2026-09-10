@@ -11,40 +11,33 @@
 ## ✨ Features
 
 * 🗂️ **Interactive Split-Screen Layout**
-* **Resizable Sidebar:** Dynamically expand or collapse the sidebar. When collapsed, the main workspace auto-expands to fill 100% of the screen.
-* **Dual-Pane Canvas:** Keep your code/filters on the left (Notebook Editor) and instantly visualize results on the right (Dashboard Canvas).
-
+  * **Resizable Sidebar:** Dynamically expand or collapse the sidebar. When collapsed, the main workspace auto-expands to fill 100% of the screen.
+  * **Dual-Pane Canvas:** Keep your code/filters on the left (Notebook Editor) and instantly visualize results on the right (Dashboard Canvas).
 
 * 📊 **Multi-Engine Querying & Views**
-* **SQL Cells:** Run fast SQL queries directly against loaded DataFrames using **DuckDB**.
-* **Pandas Cells:** Execute Python code snippets for custom data transformations.
-* **Power BI / Excel Views:** Low-code, visual builder with drop-down field selectors and **multi-value filtering** (`IN` logic) with zero code required.
-* **Markdown Cells:** Document insights, add headings, or structure your report layout.
-
+  * **SQL Cells:** Run fast SQL queries directly against loaded DataFrames using **DuckDB**.
+  * **Pandas Cells:** Execute Python code snippets for custom data transformations.
+  * **Power BI / Excel Views:** Low-code, visual builder with drop-down field selectors and **multi-value filtering** (`IN` logic) with zero code required.
+  * **Markdown Cells:** Document insights, add headings, or structure your report layout.
 
 * 📈 **Dynamic Plotly Visualizations**
-* Effortlessly render Tables, Bar Charts, Line Charts, Scatter Plots, Pie Charts, and Area Charts.
-
+  * Effortlessly render Tables, Bar Charts, Line Charts, Scatter Plots, Pie Charts, and Area Charts.
 
 * 📦 **Project Bundling**
-* Save and load your entire workspace (datasets + query configurations + filters) in a single `.zip` file for seamless project portability.
-
-
+  * Save and load your entire workspace (datasets + query configurations + filters) in a single `.zip` file for seamless project portability.
 
 
 ## 🚀 Quick Start
 
 ### 1. Prerequisites
-
 Ensure you have Python 3.8+ installed.
 
 ### 2. Installation
-
 Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-https://github.com/vinayaksharma-git/QueryViewStudio
+git clone [https://github.com/vinayaksharma-git/QueryViewStudio.git](https://github.com/vinayaksharma-git/QueryViewStudio.git)
 cd QueryViewStudio
 
 # Install dependencies
@@ -57,7 +50,7 @@ pip install streamlit pandas duckdb plotly openpyxl
 Launch the Streamlit application:
 
 ```bash
-streamlit run app.py
+streamlit run qvcode_4.py
 
 ```
 
@@ -80,3 +73,8 @@ streamlit run app.py
 * **Frontend / Framework:** [Streamlit](https://streamlit.io/)
 * **Data Processing:** [Pandas](https://pandas.pydata.org/) & [DuckDB](https://duckdb.org/)
 * **Data Visualization:** [Plotly Express](https://plotly.com/python/plotly-express/)
+
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
