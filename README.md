@@ -44,8 +44,8 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/query-view-studio.git
-cd query-view-studio
+https://github.com/vinayaksharma-git/QueryViewStudio
+cd QueryViewStudio
 
 # Install dependencies
 pip install streamlit pandas duckdb plotly openpyxl
