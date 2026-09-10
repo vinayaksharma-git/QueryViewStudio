@@ -74,6 +74,8 @@ streamlit run qvcode_4.py
 * **Data Processing:** [Pandas](https://pandas.pydata.org/) & [DuckDB](https://duckdb.org/)
 * **Data Visualization:** [Plotly Express](https://plotly.com/python/plotly-express/)
 
+## 📸 View
+![QVStudio]()
 
 ## 📜 License
 
